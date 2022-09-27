@@ -66,7 +66,7 @@ class _AgeWidgetState extends State<AgeWidget> {
                       },
                       child: CircleAvatar(
                         radius: 12,
-                        backgroundColor: Colors.deepOrange,
+                        backgroundColor: Colors.blue,
                         child: Icon(Icons.remove),
                       ),
                     ),
@@ -96,7 +96,7 @@ class _AgeWidgetState extends State<AgeWidget> {
                       },
                       child: CircleAvatar(
                         radius: 12,
-                        backgroundColor: Colors.deepOrange,
+                        backgroundColor: Colors.blue,
                         child: Icon(Icons.add),
                       ),
                     ),
