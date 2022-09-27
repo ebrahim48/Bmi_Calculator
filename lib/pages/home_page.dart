@@ -108,7 +108,7 @@ class _HomePageState extends State<HomePage> {
                           });
                         });
                       },
-                      activeColor: Colors.deepOrange,
+                      activeColor: Colors.blue,
                       buttonWidget: Icon(
                         Icons.arrow_forward_ios_outlined,
                         color: Colors.black,
